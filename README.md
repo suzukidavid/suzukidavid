@@ -18,7 +18,7 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 <a href="[https://discord.gg/VwJp4KM](https://discordapp.com/users/1053702868407963669)"><img alt="discord_logo" 
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
 &nbsp;
-<a href="https://twitter.com/devprtcl"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://twitter.com/code-rain002"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 &nbsp;
 <a href="https://github.com/code-rain002"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
