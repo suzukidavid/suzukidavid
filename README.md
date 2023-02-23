@@ -1,4 +1,4 @@
-<h1 align = "center">IDAES MEAN NOTHING WITHOUT EXECUTION.<br/> TALK IS CHEAP, SHOW ME THE CODE</h1>
+<h1 align = "center">IDAES MEAN NOTHING WITHOUT EXECUTION.<br/> TALKING IS CHEAP, SHOW ME THE CODE</h1>
 
 ![](https://github.com/code-rain002/code-rain002/blob/master/icons/header_1.png)
 
