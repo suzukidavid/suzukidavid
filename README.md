@@ -2,7 +2,7 @@
 
 ![](https://github.com/code-rain002/code-rain002/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Websites** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on Aptos Blockchain.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
