@@ -22,6 +22,6 @@ src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40"
 &nbsp;
 <a href="https://twitter.com/code-rain002"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/code-rain002"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/james-kishino"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 &nbsp;
 </p>
