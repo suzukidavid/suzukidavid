@@ -4,8 +4,8 @@
 
 I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Websites** for a living and also **Write some blogs**. 🌈    
 
-* 🧐   Interested in full stack. Recent focus on Aptos Blockchain.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
+* 🧐   Interested in full stack. Sinc 2019, jumped into Blockchain with deep interesting.
+* 🎓   B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
 * 🌱   Currently learning Linux, Move, Math & Philosophy.
 * 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
 * 💻   With 5 years' computer science and technology education and 8 years' development working experience.
@@ -22,6 +22,6 @@ src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40"
 &nbsp;
 <a href="https://twitter.com/code-rain002"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/james-kishino"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/james-kishino"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 &nbsp;
 </p>
