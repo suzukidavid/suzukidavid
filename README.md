@@ -4,7 +4,7 @@
 
 I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Websites** for a living and also **Write some blogs**. 🌈    
 
-* 🧐   Interested in full stack. Sinc 2019, jumped into Blockchain with deep interesting.
+* 🧐   Interested in full stack. Since 2019, jumped into Blockchain with deep interesting.
 * 🎓   B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
 * 🌱   Currently learning Linux, Move, Math & Philosophy.
 * 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
