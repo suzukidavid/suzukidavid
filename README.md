@@ -7,10 +7,10 @@ I work with 💻⎈🐳 <b>Distributed Infrastructure / Kubernetes</b> ☁️ <b
 </div>
 <br>
 
-* 🧐   Interested in full stack. Since 2019, jumped into Blockchain with deep interest.
+* 🧐   I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.
 * 🎓   B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
 * 🌱   Currently learning Linux, Move, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
+* 📚   Reading 《Systems Performance 2nd Edition》《BPF Performance Tools》.
 * 💻   5 years' computer science and technology education.
 * 🏢   8 years' development working experience.
 * ⛵   Encouraging people into open source.
