@@ -12,7 +12,7 @@ I work with 💻⎈🐳 <b>Distributed Infrastructure / Kubernetes</b> ☁️ <b
 * 🌱   Currently learning Linux, Move, Math & Philosophy.
 * 📚   Reading 《Systems Performance 2nd Edition》《BPF Performance Tools》.
 * 💻   5 years' computer science and technology education.
-* 🏢   8 years' development working experience.
+* 🏢   8 years' experience as a professional software architect.
 * ⛵   Encouraging people into open source.
 * ✍🏻   I write my personal thoughts on programming.
 <h2 align="center"><strong>Connect with me</strong></h2>
