@@ -1,17 +1,18 @@
-<h1 align = "center">IDAES MEAN NOTHING WITHOUT EXECUTION.<br/> TALKING IS CHEAP, SHOW ME THE CODE</h1>
+<h1 align = "center">IDAES MEAN NOTHING WITHOUT EXECUTION!<br/> TALKING IS CHEAP, SHOW ME THE CODE.</h1>
 
 ![](https://github.com/code-rain002/code-rain002/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Websites** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Websites** for a living and also **write blogs**. 🌈    
 
-* 🧐   Interested in full stack. Since 2019, jumped into Blockchain with deep interesting.
+* 🧐   Interested in full stack. Since 2019, jumped into Blockchain with deep interest.
 * 🎓   B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
 * 🌱   Currently learning Linux, Move, Math & Philosophy.
 * 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 5 years' computer science and technology education and 8 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming.
-<h2 align="center"><strong>Connect With Me</strong></h2>
+* 💻   5 years' computer science and technology education.
+* 🏢   8 years' development working experience.
+* ⛵   Encouraging people into open source.
+* ✍🏻   I write my personal thoughts on programming.
+<h2 align="center"><strong>Connect with me</strong></h2>
 <p align="center"> 
 <a href="https://t.me/hs_0812"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 &nbsp;
