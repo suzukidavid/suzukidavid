@@ -2,7 +2,10 @@
 
 ![](https://github.com/code-rain002/code-rain002/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Websites** for a living and also **write blogs**. 🌈    
+<div align="center">
+I work with 💻⎈🐳 <b>Distributed Infrastructure / Kubernetes</b> ☁️ <b>Cloud Native</b> 📝 <b>DeFi Smart Contract</b> and 🌐 <b>Websites</b> for a living and also <a href="https://halfrost.com/"><b>write blogs</b></a> 🌈
+</div>
+<br>
 
 * 🧐   Interested in full stack. Since 2019, jumped into Blockchain with deep interest.
 * 🎓   B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
