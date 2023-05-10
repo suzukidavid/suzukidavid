@@ -11,8 +11,7 @@
 * 🎓   B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
 * 🌱   Currently learning Linux, Move, Math & Philosophy.
 * 📚   Reading 《Systems Performance 2nd Edition》《BPF Performance Tools》.
-* 💻   5 years' computer science and technology education.
+* 💻   4 years' computer science and technology education.
 * 🏢   8 years' experience as a professional software architect.
 * ⛵   Encouraging people into open source.
 * ✍🏻   I write my personal thoughts on programming.
-<h2 align="center"><strong>Connect with me</strong></h2>
