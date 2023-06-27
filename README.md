@@ -1,5 +1,3 @@
-<h1 align = "center">IDAES MEAN NOTHING WITHOUT EXECUTION!<br/> TALKING IS CHEAP, SHOW ME THE CODE.</h1>
-
 ![](https://github.com/code-rain002/code-rain002/blob/master/icons/header_1.png)
 
 <div align="center">
@@ -8,10 +6,10 @@
 <br>
 
 * 🧐   I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.
-* 🎓   B.S. in Computer Science. Major GPA 3.90/4.0, TOP 3%.
+* 🎓   B.S. in Computer Science.
 * 🌱   Currently learning Linux, Move, Math & Philosophy.
 * 📚   Reading 《Systems Performance 2nd Edition》《BPF Performance Tools》.
 * 💻   4 years' computer science and technology education.
-* 🏢   8 years' experience as a professional software architect.
+* 🏢   6+ years' experience as a professional software architect.
 * ⛵   Encouraging people into open source.
 * ✍🏻   I write my personal thoughts on programming.
