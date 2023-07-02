@@ -1,7 +1,7 @@
 ![](https://github.com/code-rain002/code-rain002/blob/master/icons/header_1.png)
 
 <div align="center">
-🐍 <b>Python</b> | 👩‍💻 <b>Rust</b> | 💻 <b>Java</b> |☁️ <b>Cloud Native</b> | 📝 <b>DeFi Smart Contract</b> | <b><a href="https://suzuki-david.netlify.app">🌐 Website</a></b>
+🐍 <b>Python</b> | 👩‍💻 <b>Rust</b> | 💻 <b>Java</b> | 👍 <b>Javascript</b> |☁️ <b>Cloud Native</b> | 📝 <b>DeFi Smart Contract</b> | <b><a href="https://suzuki-david.netlify.app">🌐 Website</a></b>
 </div>
 <br>
 
