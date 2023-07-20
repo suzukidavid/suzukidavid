@@ -7,7 +7,7 @@
 </div>
 <br>
 <div style="display: flex;">
- 🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest
+ 🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest
   <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="200" />
   <div style="flex: 1;">
     <p>🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
