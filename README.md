@@ -7,13 +7,17 @@
 </div>
 <br>
 <div style="display: flex;">
-  👋 Hello, 
+  <p>🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
+    <p>🎓 B.S. in Computer Science.</p>
+    <p>🌱 Currently learning Linux, Move, Math & Philosophy.</p>
+    <p>💻 4 years' computer science and technology education.</p>
+    <p>🏢 6+ years' experience as a professional software architect.</p>
   <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="200" />
   <div style="flex: 1;">
-    <p>🧐   I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
-    <p>🎓   B.S. in Computer Science.</p>
-    <p>🌱   Currently learning Linux, Move, Math & Philosophy.</p>
-    <p>💻   4 years' computer science and technology education.</p>
-    <p>🏢   6+ years' experience as a professional software architect.</p>
+    <p>🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
+    <p>🎓 B.S. in Computer Science.</p>
+    <p>🌱 Currently learning Linux, Move, Math & Philosophy.</p>
+    <p>💻 4 years' computer science and technology education.</p>
+    <p>🏢 6+ years' experience as a professional software architect.</p>
   </div>
 </div>
