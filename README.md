@@ -9,13 +9,10 @@
 <br>
 <div style="display: flex;">
   <div style="flex: 1;">
-    <p>* 🧐   I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
-    <p>* 🎓   B.S. in Computer Science.</p>
-    <p>* 🌱   Currently learning Linux, Move, Math & Philosophy.</p>
-    <p>* 📚   Reading 《Systems Performance 2nd Edition》《BPF Performance Tools》.</p>
-    <p>* 💻   4 years' computer science and technology education.</p>
-    <p>* 🏢   6+ years' experience as a professional software architect.</p>
-    <p>* ⛵   Encouraging people into open source.</p>
-    <p>* ✍🏻   I write my personal thoughts on programming.</p>
+    <p>🧐   I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
+    <p>🎓   B.S. in Computer Science.</p>
+    <p>🌱   Currently learning Linux, Move, Math & Philosophy.</p>
+    <p>💻   4 years' computer science and technology education.</p>
+    <p>🏢   6+ years' experience as a professional software architect.</p>
   </div>
 </div>
