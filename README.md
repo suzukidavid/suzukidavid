@@ -12,3 +12,4 @@
 * 🏢   6+ years' experience as a professional software architect.
 * ⛵   Encouraging people into open source.
 * ✍🏻   I write my personal thoughts on programming.
+<img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr"/>
