@@ -15,7 +15,7 @@
     <p>* ⛵   Encouraging people into open source.</p>
     <p>* ✍🏻   I write my personal thoughts on programming.</p>
   </div>
-  <div position="fixed">
+  <div style="position: fixed">
     <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="200"/>
   </div>
 </div>
