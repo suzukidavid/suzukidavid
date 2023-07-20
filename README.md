@@ -9,15 +9,15 @@
 <div style="display: flex;">
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+    <a href="https://www.linkedin.com/in/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
     &nbsp;&nbsp;
-    <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+    <a href="mailto:davidsuzuki51@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
     &nbsp;&nbsp;
-    <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="200" />
+    <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="100" />
     &nbsp;&nbsp;
     <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
     &nbsp;&nbsp;
-    <a href="https://t.me/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+    <a href="https://t.me/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
     &nbsp;&nbsp;
 </p>
   <div style="flex: 1;">
