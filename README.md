@@ -13,13 +13,13 @@
     &nbsp;&nbsp;
     <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
     &nbsp;&nbsp;
+    <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="200" />
+    &nbsp;&nbsp;
     <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
     &nbsp;&nbsp;
     <a href="https://t.me/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
     &nbsp;&nbsp;
-    <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
-  <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="200" />
   <div style="flex: 1;">
     <p>🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
     <p>🎓 B.S. in Computer Science.</p>
