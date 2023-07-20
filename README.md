@@ -5,7 +5,7 @@
 </div>
 <br>
 * 🧐   I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.
-* 🎓   B.S. in Computer Science.</p>
+* 🎓   B.S. in Computer Science.
 * 🌱   Currently learning Linux, Move, Math & Philosophy.
 * 📚   Reading 《Systems Performance 2nd Edition》《BPF Performance Tools》.
 * 💻   4 years' computer science and technology education.
