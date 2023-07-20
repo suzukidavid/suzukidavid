@@ -5,7 +5,7 @@
 </div>
 <br>
 
-<div align="center">
+<div>
   <div>
     <p>* 🧐   I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
     <p>* 🎓   B.S. in Computer Science.</p>
