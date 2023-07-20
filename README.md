@@ -5,6 +5,9 @@
 </div>
 <br>
 <div>
+  <div align="center">
+    <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="200"/>
+  </div>
   <div>
     <p>* 🧐   I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
     <p>* 🎓   B.S. in Computer Science.</p>
@@ -14,9 +17,6 @@
     <p>* 🏢   6+ years' experience as a professional software architect.</p>
     <p>* ⛵   Encouraging people into open source.</p>
     <p>* ✍🏻   I write my personal thoughts on programming.</p>
-  </div>
-  <div style="position: fixed">
-    <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="200"/>
   </div>
 </div>
 
