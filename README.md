@@ -17,6 +17,6 @@
     * ✍🏻   I write my personal thoughts on programming.
   </div>
   <div>
-    <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" />
+    <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr.png" alt="qr" height="50" />
   </div>
 </div>
