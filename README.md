@@ -6,9 +6,9 @@
 🐍 <b>Python</b> | 👩‍💻 <b>Rust</b> | 💻 <b>Java</b> | 👍 <b>Javascript</b> |☁️ <b>Cloud Native</b> | 📝 <b>DeFi Smart Contract</b> | <b><a href="https://suzuki-david.netlify.app">🌐 Website</a></b>
 </div>
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div style="display: flex;">
-
-
   <div style="flex: 1;">
     <p>🧐 I'm interested in Fullstack. Since 2019, I've dived into Blockchain with a great interest.</p>
     <p>🎓 B.S. in Computer Science.</p>
