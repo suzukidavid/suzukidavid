@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/code-rain002/code-rain002/blob/master/icons/header_1.png" alt="logo" />
+  <img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/header_1.png" alt="logo" />
 </div>
 
 <div align="center">
